@@ -12,9 +12,9 @@ Version 1
 
 Version 2
 ![CM2](CorrelationMatrixV2.png)
-
-
 3. Boxplot
+
+
 ![BX](boxplot.png)
 
 
