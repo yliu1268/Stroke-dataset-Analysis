@@ -13,9 +13,14 @@ Version 2
 ![CM2](CorrelationMatrixV2.png)
 
 3. Boxplot
-![Boxplot](Boxplot.png)
+![BX](boxplot.png)
 
 4. Scatter
+Between BMI and Stroke
 ![SC1](scatter.bmi.stroke.png)
+
+Between Age and Stroke
 ![SC2](scatter.age.stroke.png)
+
+Between Glucose and Stroke
 ![SC3](scatter.glucose.stroke.png)
