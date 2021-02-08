@@ -3,14 +3,14 @@ Analyze the stroke dataset (https://www.kaggle.com/asaumya/healthcare-dataset-st
 
 
 1. Dataset Preview
-![DataSet](Dataset Preview.png)
+![DataSet](DatasetPreview.png)
 
 2. Correlation Matrix
 Version 1
 ![CM1](Correlation.png)
 
 Version 2
-![CM1](CorrelationMatrixV2.png)
+![CM2](CorrelationMatrixV2.png)
 
 3. Boxplot
 ![Boxplot](Boxplot.png)
