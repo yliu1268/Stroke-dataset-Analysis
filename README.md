@@ -19,6 +19,7 @@ Version 2
 
 
 4. Scatter
+
 Between BMI and Stroke
 ![SC1](scatter.bmi.stroke.png)
 
