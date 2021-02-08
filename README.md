@@ -6,17 +6,16 @@ Analyze the stroke dataset (https://www.kaggle.com/asaumya/healthcare-dataset-st
 
 
 2. Correlation Matrix
+
 Version 1
 ![CM1](Correlation.png)
 
 Version 2
 ![CM2](CorrelationMatrixV2.png)
 
+
 3. Boxplot
 ![BX](boxplot.png)
-
-
-
 
 
 4. Scatter
