@@ -3,7 +3,7 @@ Analyze the stroke dataset (https://www.kaggle.com/asaumya/healthcare-dataset-st
 
 
 1. Dataset Preview
-![DS](DatasetPreview.png)
+
 
 2. Correlation Matrix
 Version 1
@@ -14,6 +14,10 @@ Version 2
 
 3. Boxplot
 ![BX](boxplot.png)
+
+
+
+
 
 4. Scatter
 Between BMI and Stroke
