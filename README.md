@@ -3,7 +3,9 @@ Analyze the stroke dataset (https://www.kaggle.com/asaumya/healthcare-dataset-st
 
 
 1. Dataset Preview
-
+-Data Clean-up
+-Regular Check
+-Prepare for the data analysis
 
 2. Correlation Matrix
 
